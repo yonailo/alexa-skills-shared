@@ -26,7 +26,7 @@ $data = (array)json_decode($json);
 setlocale(LC_TIME, 'fr_FR.UTF-8');
 
 $aux = [];
-$aux['title'] = date('d/m/Y', $data['timestamp']).", H: " . sprintf("%+d", $data['hosp']) . ", R: " . sprintf("%+d",$data['rea']) . ", D: " . sprintf("%+d",$data['dc']);
+$aux['title'] = "H: " . sprintf("%+d", $data['hosp']) . ", R: " . sprintf("%+d",$data['rea']) . ", D: " . sprintf("%+d",$data['dc']);
 $aux['title'] .= ", TH: " . $data['total_hosp'] . ", TR: " . $data['total_rea'] . ", TD: " . $data['total_dc'];
 $aux['title'] .= ", IH: " . $data['incid_hosp'] . ", IR: " . $data['incid_rea'] . ", ID: " . $data['incid_dc'];
 

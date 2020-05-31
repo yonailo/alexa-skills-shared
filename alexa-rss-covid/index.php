@@ -30,7 +30,7 @@ $aux['title'] = "H: " . sprintf("%+d", $data['hosp']) . ", R: " . sprintf("%+d",
 $aux['title'] .= ", TH: " . $data['total_hosp'] . ", TR: " . $data['total_rea'] . ", TD: " . $data['total_dc'];
 $aux['title'] .= ", IH: " . $data['incid_hosp'] . ", IR: " . $data['incid_rea'] . ", ID: " . $data['incid_dc'];
 
-$aux['desc'] = "Données hospitalières COVID-19 en France au " . strftime('%d %B %Y', $data['timestamp']) . '.';
+$aux['desc'] = "Données hospitalières COVID-19 en France au " . strftime('%e %B %Y', $data['timestamp']) . '.';
 
 if($data['hosp'] > 0) {
   $x = "augmenté";

@@ -40,7 +40,7 @@ foreach($data as $sms) {
 
   $aux = [];
   $aux['title'] = 'Tel : ' . $sms->tel . ', le ' . date('d/m/Y H:i:s', $sms->date);
-  $aux['desc'] = "Message reçu du numéro ". $tel . " Le " . strftime('%d %B %Y', $sms->date) . ' à ' . date('H', $sms->date) . ' heures ' . date('i', $sms->date) . '. ';
+  $aux['desc'] = "Message reçu du numéro ". $tel . " Le " . strftime('%e %B %Y', $sms->date) . ' à ' . date('H', $sms->date) . ' heures ' . date('i', $sms->date) . '. ';
   $aux['desc'] .= $sms->text;
   $aux['timestamp'] = $sms->date;
 

@@ -1,6 +1,6 @@
 # alexa-skills-shared
 
-Skills Alexa qui ne sont pas acceptées par la politique de Skills de Amazon, mais elles peuvent être partagées ou utilisées en mode privée. 
+Skills Alexa qui ne sont pas acceptées par la politique de Skills de Amazon, mais elles peuvent être partagées ou utilisées en mode privée (blog post : https://www.libreadmin.es/desarrollo-de-skills-alexa-con-alexa-blueprints/) 
 
 ## Messagerie des inconnus
 

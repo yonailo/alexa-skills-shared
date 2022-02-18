@@ -4,19 +4,25 @@ Skills Alexa qui ne sont pas acceptées par la politique de Skills de Amazon, ma
 
 ## La Primera Television
 
-Cette skill permet d'écouter la 1ère chaine de la Television Espagnole.
+Cette skill permet d'écouter la 1ère chaine de la Television Espagnole. Elle a été rejetée parce que :
+
+*Protecting intellectual property rights is important to Amazon. Please provide documentation demonstrating that you have the right to use the music/devotional content within the skill. The documentation must be either a confirmation letter from the intellectual property rights holder or a copy of the applicable license.*
 
 Lien de partage : https://amzn.eu/2OBO68z
 
 ## Katotv
 
-Cette skill permet d'écouter la chaine de télévision KTOTV
+Cette skill permet d'écouter la chaine de télévision KTOTV. Elle a été rejetée parce que :
+
+*Protecting intellectual property rights is important to Amazon. Please provide documentation demonstrating that you have the right to use the music/devotional content within the skill. The documentation must be either a confirmation letter from the intellectual property rights holder or a copy of the applicable license.* 
 
 Lien de partage : https://amzn.eu/jfJR4nv
 
 ## Recalbox Fabrice
 
 Cette skill permet d'écouter l'émission Twitch de Recalbox. Quand il n'y a pas de direct, on entend une musique en boucle.
+Cette skill a été rejetée mais j'ai jamais reçu le mail d'Amazon, j'imagine que pareil que les autres, il faut démontrer
+que *that you have the right to use the music/devotional content within the skill*.
 
 Lien de partage : https://amzn.eu/75h7KOB
 

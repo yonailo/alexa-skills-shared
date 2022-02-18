@@ -4,7 +4,7 @@
 
 LIVESTREAM_URL=$1
 LIVESTREAM_OUTPUT=$2
-SENTINEL="/mirai/DATA/Apache2/www.tuxe.es/sentinel.txt"
+SENTINEL="***********/sentinel.txt"
 
 if [[ ! $# -eq 2 ]]; then
   echo "usage: $0 <URL> <DESTINATION>"

@@ -2,11 +2,31 @@
 
 Skills Alexa qui ne sont pas acceptées par la politique de Skills de Amazon, mais elles peuvent être partagées ou utilisées en mode privée (blog post : https://www.libreadmin.es/desarrollo-de-skills-alexa-con-alexa-blueprints/) 
 
+## La Primera Television
+
+Cette skill permet d'écouter la 1ère chaine de la Television Espagnole.
+
+Lien de partage : https://amzn.eu/2OBO68z
+
+## Katotv
+
+Cette skill permet d'écouter la chaine de télévision KTOTV
+
+Lien de partage : https://amzn.eu/jfJR4nv
+
+## Recalbox Fabrice
+
+Cette skill permet d'écouter l'émission Twitch de Recalbox. Quand il n'y a pas de direct, on entend une musique en boucle.
+
+Lien de partage : https://amzn.eu/75h7KOB
+
 ## Messagerie des inconnus
 
 Cette skill permet de relayer tous les SMS envoyés à un numéro mobile. Le numéro n'est pas surtaxé. Elle a été rejetée parce que :
 
 *The skill submission has failed the certification process. Skills which allow the sharing of un-moderated user generated content are not appropriate for the Alexa Skills Catalog.*
+
+NOTE : La skill ne marche plus depuis que j'ai cassé mon dongle USB 3G !
 
 Lien de partage : https://amzn.eu/5Ro9MKM
 

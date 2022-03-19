@@ -10,13 +10,13 @@ Cette skill permet d'écouter la 1ère chaine de la Television Espagnole. Elle a
 
 Lien de partage : https://amzn.eu/2OBO68z
 
-## Katotv
+## La Catholique Télévision
 
 Cette skill permet d'écouter la chaine de télévision KTOTV. Elle a été rejetée parce que :
 
 *Protecting intellectual property rights is important to Amazon. Please provide documentation demonstrating that you have the right to use the music/devotional content within the skill. The documentation must be either a confirmation letter from the intellectual property rights holder or a copy of the applicable license.* 
 
-Lien de partage : https://amzn.eu/jfJR4nv
+Lien de partage : https://amzn.eu/4bPXGe9
 
 ## Recalbox Fabrice
 
